@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590261230035",
+    "project_id": "chelyabinsk25-27953",
+    "storage_bucket": "chelyabinsk25-27953.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590261230035:android:3b579c885d4b758e353726",
+        "android_client_info": {
+          "package_name": "com.example.chelyabinsk_2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVM4O-np6qcT34kDb5BJ5KJYqtbsYSlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590261230035:android:41e9553f720b22b9353726",
+        "android_client_info": {
+          "package_name": "com.example.chelyabinsk__2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVM4O-np6qcT34kDb5BJ5KJYqtbsYSlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
